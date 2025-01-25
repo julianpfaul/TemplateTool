@@ -1,4 +1,5 @@
 --- FLAGS ---
+
   -h, --help
     Print this help message.
   -q, --quiet
@@ -13,7 +14,9 @@
     Print debug messages as well.
   -v, --development
     Print development messages as well.
+    
 --- OPTIONS ---
+
   -f, --file <file_name>
     Set file name.
     Default: main.cpp
